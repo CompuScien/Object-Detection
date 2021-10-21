@@ -1,1 +1,1 @@
-![Object-Detection Logo](Images/Object detection logo.png)
+![Object-Detection Logo](Images/object detection logo.png)
