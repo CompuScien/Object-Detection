@@ -1,2 +1,2 @@
 # Object-Detection
-![Object Detection Logo](images/Logo-Python.jpeg)
+![Object Detection Logo](Images/Object detection logo.jpeg)
