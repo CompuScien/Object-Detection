@@ -1,2 +1,2 @@
 # Object-Detection
-![Object Detection Logo](Images/Object detection logo.jpg)
+![Object-Detection Logo](Images/Object detection logo.png)
