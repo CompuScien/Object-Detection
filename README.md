@@ -1,2 +1,2 @@
-![Object Detection Logo](images/object-detection-logo.png)
+![Object Detection Logo](images/object_detection_logo.png)
 
